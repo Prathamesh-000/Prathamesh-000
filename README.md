@@ -1,12 +1,12 @@
 <div align="center">
 
 # 👨‍💻 Hi, I'm Prathamesh Patil
-### *Quantitative ML Engineer • Generative AI & Autonomous Agent Architect • Full-Stack Developer*
+### *Quantitative ML Engineer • Distributed Edge AI & Autonomous Agent Architect • Full-Stack Developer*
 
 <br/>
 
 <a href="https://github.com/Prathamesh-000">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Quantitative+ML+%26+Stock+Forecasting;HackIndia+Spark+6+Finalist+•+Team+Routers;Generative+AI+%26+Self-RAG+Pipeline+Architect;Full-Stack+(FastAPI+•+React+•+WebSockets+•+Web3)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Quantitative+ML+%26+Stock+Forecasting;Distributed+Edge+AI+%26+P2P+WebRTC+Mesh;Generative+AI+%26+Self-RAG+Pipeline+Architect;Full-Stack+(FastAPI+•+React+•+WebSockets+•+WebRTC)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,8 +17,8 @@
 
 <br/>
 
-> **"Bridging the frontier of Quantitative Finance, Generative AI, and Decentralized Infrastructure."**  
-> I engineer production-grade platforms combining **deep machine learning, calibrated financial mathematics, LLM agent orchestration, and high-reliability distributed systems**.
+> **"Bridging the frontier of Quantitative Finance, Generative AI, and Distributed Edge Systems."**  
+> I engineer production-grade platforms combining **deep machine learning, calibrated financial mathematics, distributed P2P edge architecture, and LLM agent orchestration**.
 
 <br/>
 
@@ -35,7 +35,7 @@
 - 🧠 **Quantitative Machine Learning & FinTech:** Building institutional-grade market prediction pipelines using **calibrated XGBoost classifiers, Platt scaling, and multi-asset sector ripple regressions**.
 - 🤖 **Generative AI & Self-RAG Systems:** Designing resilient conversational and retrieval systems utilizing **LangChain, Self-RAG architectures, OpenAI GPT-4o-mini structured schemas, and Google Gemini Pro memory chains**.
 - ⚡ **High-Throughput Web Platforms:** Engineering asynchronous microservices with **FastAPI, Uvicorn, and native WebSockets**, tied to modern **React 18 & TypeScript** interactive dashboards.
-- 📱 **Distributed Edge AI & P2P Mesh Systems:** Sharding deep transformer architectures across consumer edge devices (iOS/Android mobile browsers) via **WebRTC DataChannels, pure JavaScript CPU pipelines, and zero-cloud distributed rings**.
+- 📱 **Distributed Edge AI & P2P Mesh Systems:** Sharding deep transformer architectures across consumer edge devices (iOS/Android mobile browsers) via **circular WebRTC DataChannels, dynamic pipeline parallelism, binary tensor framing (ArrayBuffer), and zero-cloud distributed rings**.
 - ⛓️ **Web3 & Cryptographic Audit Trails:** Deploying smart contract integrations on **Polygon Amoy EVM** using **Ethers.js** for immutable on-chain data logging and responder reputation.
 
 ---
@@ -129,6 +129,11 @@ Phone 1 (Host Embed) ➔ WebRTC Ring (1.5KB/hop) ➔ Sliced Layers (2–6 Device
   3. **🎨 Real-Time Master QR & Visual Ring HUD:**
      - Developed an interactive HTML5 Canvas visualizer rendering live animated peer nodes, circular WebRTC links, and directional token pulses in dark-mode cyber aesthetics.
      - Built host autoregressive orchestration with live Token/sec (TPS), Step RTT, and memory telemetry.
+- **🧠 Key Skills & Engineering Competencies Mastered:**
+  - **Decentralized P2P Networking:** WebRTC DataChannels, SDP Offer/Answer negotiation, ICE candidate routing, local circular ring topologies with shortcut feedback channels.
+  - **Binary Wire Protocols & High-Throughput Serialization:** High-performance packet framing (`0x01` activation chunking, `0x02` token byte) using `ArrayBuffer` and `Float32Array` with bit-exact precision.
+  - **Distributed Pipeline Parallelism:** Dynamic model partitioning, stage synchronization, memory budget enforcement ($<10\text{ MB RAM}$ per node), and autoregressive decode loop orchestration.
+  - **Vector Graphics & Canvas Math:** Trigonometric coordinate projection, animated pulse trajectories, and real-time mesh telemetry visualization on HTML5 Canvas.
 - **Tech Stack:** `JavaScript (ES6+)` • `WebRTC DataChannels` • `WebSockets` • `Node.js` • `HTML5 Canvas` • `Distributed Systems` • `Pipeline Parallelism` • `PyTorch`
 
 <p align="left">
@@ -149,6 +154,8 @@ Phone 1 (Host Embed) ➔ WebRTC Ring (1.5KB/hop) ➔ Sliced Layers (2–6 Device
 ### 🤖 Machine Learning, AI & Quant
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformer_Architecture-FFD21E?style=for-the-badge&logoColor=black)
+![Edge AI](https://img.shields.io/badge/Edge_AI_Inference-00C49F?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -158,13 +165,16 @@ Phone 1 (Host Embed) ➔ WebRTC Ring (1.5KB/hop) ➔ Sliced Layers (2–6 Device
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌐 Backend, APIs & Orchestration
+### 🌐 Backend, APIs & Distributed Orchestration
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC_DataChannels-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![Pipeline Parallelism](https://img.shields.io/badge/Pipeline_Parallelism-2E7D32?style=for-the-badge)
+![P2P Mesh](https://img.shields.io/badge/P2P_Mesh_Topology-FF5722?style=for-the-badge)
+![Binary Wire Protocols](https://img.shields.io/badge/Binary_Framing_(ArrayBuffer)-4B0082?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC_DataChannels-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -173,6 +183,7 @@ Phone 1 (Host Embed) ➔ WebRTC Ring (1.5KB/hop) ➔ Sliced Layers (2–6 Device
 ![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas_Visualizer-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
@@ -204,7 +215,9 @@ Phone 1 (Host Embed) ➔ WebRTC Ring (1.5KB/hop) ➔ Sliced Layers (2–6 Device
 ## 🔭 What I'm Currently Focusing On
 
 - 🔬 **High-Precision Time-Series Feature Engineering:** Combining microsecond order-book dynamics with macroeconomic event embeddings.
-- ⚡ **Low-Latency Agent Orchestration:** Building multi-agent systems that autonomously reason, verify facts via RAG, and execute complex workflows under 500ms.
+- 📱 **Distributed Edge Transformer Inference:** Advancing circular WebRTC pipeline topologies to run quantized 1B–3B parameter LLMs directly across mobile device clusters without server GPUs.
+- ⚡ **Zero-Copy High-Throughput Binary Protocols:** Optimizing typed array memory transfers (`ArrayBuffer` & `SharedArrayBuffer`) across cross-platform mobile WebKit and Blink engines.
+- 🤖 **Low-Latency Agent Orchestration:** Building multi-agent systems that autonomously reason, verify facts via RAG, and execute complex workflows under 500ms.
 - 🌐 **Scalable Quantitative Trading Infrastructure:** Expanding sector ripple modeling to broad-market ETF baskets and cross-asset derivatives.
 
 ---
@@ -213,7 +226,7 @@ Phone 1 (Host Embed) ➔ WebRTC Ring (1.5KB/hop) ➔ Sliced Layers (2–6 Device
 
 <div align="center">
 
-I'm always open to discussing **Quantitative Finance, Machine Learning, Full-Stack Architecture, and Research Collaborations**!
+I'm always open to discussing **Quantitative Finance, Machine Learning, Distributed Edge AI & P2P Systems, Full-Stack Architecture, and Research Collaborations**!
 
 <br/>
 
