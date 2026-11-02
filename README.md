@@ -35,6 +35,7 @@
 - 🧠 **Quantitative Machine Learning & FinTech:** Building institutional-grade market prediction pipelines using **calibrated XGBoost classifiers, Platt scaling, and multi-asset sector ripple regressions**.
 - 🤖 **Generative AI & Self-RAG Systems:** Designing resilient conversational and retrieval systems utilizing **LangChain, Self-RAG architectures, OpenAI GPT-4o-mini structured schemas, and Google Gemini Pro memory chains**.
 - ⚡ **High-Throughput Web Platforms:** Engineering asynchronous microservices with **FastAPI, Uvicorn, and native WebSockets**, tied to modern **React 18 & TypeScript** interactive dashboards.
+- 📱 **Distributed Edge AI & P2P Mesh Systems:** Sharding deep transformer architectures across consumer edge devices (iOS/Android mobile browsers) via **WebRTC DataChannels, pure JavaScript CPU pipelines, and zero-cloud distributed rings**.
 - ⛓️ **Web3 & Cryptographic Audit Trails:** Deploying smart contract integrations on **Polygon Amoy EVM** using **Ethers.js** for immutable on-chain data logging and responder reputation.
 
 ---
@@ -104,6 +105,39 @@ Distress SOS (Voice / SMS) ➔ n8n Orchestration ➔ LangChain Self-RAG ➔ Geo-
 
 </td>
 </tr>
+
+<tr>
+<td width="100%">
+
+### 📱 3. [P2P Mobile Mesh Inference — Dynamic N-Phone Micro-Transformer](https://github.com/Prathamesh-000/Transformer)
+**Distributed Edge Pipeline Parallelism for an 11.04M Transformer across 2–6 Smartphones over WebRTC Ring**
+
+> 👥 *Collaborative Engineering with **Vikrant Saini***
+
+```text
+Phone 1 (Host Embed) ➔ WebRTC Ring (1.5KB/hop) ➔ Sliced Layers (2–6 Devices) ➔ Sampler LM Head ➔ 1-Byte Shortcut Return
+```
+
+- **Project Overview:** A zero-app-install, zero-cloud, 100% browser-based distributed inference system that shards an 11.04M-parameter Causal Decoder Transformer across **any arbitrary cluster of 2 to 6 consumer smartphones** (iOS Safari & Android Chrome) running pure JavaScript Web CPU.
+- **👨‍💻 My Core Contributions (Network, Orchestration & Host UI):**
+  1. **🌐 Dynamic Multi-Peer Lobby & Partitioner:**
+     - Engineered a Node.js WebSocket signaling server onboarding any dynamic group of 2–6 devices simultaneously via a single Master QR code in under 10 seconds.
+     - Implemented dynamic layer partitioning ($\text{base} = \lfloor 6/N \rfloor, \text{rem} = 6 \pmod N$), allocating layer slices across phones to fit within strict mobile memory envelopes ($< 10\text{ MB RAM}$ per phone for $N=6$).
+  2. **🔄 Circular WebRTC P2P Ring Architecture:**
+     - Designed and implemented a peer-to-peer circular WebRTC DataChannel topology with custom binary serialization ($0x01$ tensor framing, $0x02$ token return).
+     - Maintained a constant **1,536-byte payload** per hop during decode ($1 \times 384 \times 4\text{ bytes}$), achieving sub-15ms step latency over local Wi-Fi with zero TURN/cloud relays.
+  3. **🎨 Real-Time Master QR & Visual Ring HUD:**
+     - Developed an interactive HTML5 Canvas visualizer rendering live animated peer nodes, circular WebRTC links, and directional token pulses in dark-mode cyber aesthetics.
+     - Built host autoregressive orchestration with live Token/sec (TPS), Step RTT, and memory telemetry.
+- **Tech Stack:** `JavaScript (ES6+)` • `WebRTC DataChannels` • `WebSockets` • `Node.js` • `HTML5 Canvas` • `Distributed Systems` • `Pipeline Parallelism` • `PyTorch`
+
+<p align="left">
+  <a href="https://github.com/Prathamesh-000/Transformer"><b>View Project Repository →</b></a> &nbsp;|&nbsp; 
+  <a href="https://github.com/Prathamesh-000/Transformer/blob/main/README.md"><b>Detailed System Documentation & Screenshots →</b></a>
+</p>
+
+</td>
+</tr>
 </table>
 
 ---
@@ -130,6 +164,7 @@ Distress SOS (Voice / SMS) ➔ n8n Orchestration ➔ LangChain Self-RAG ➔ Geo-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC_DataChannels-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
