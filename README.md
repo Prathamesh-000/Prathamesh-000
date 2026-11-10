@@ -137,6 +137,7 @@ Phone 1 (Host Embed) ➔ WebRTC Ring (1.5KB/hop) ➔ Sliced Layers (2–6 Device
 - **Tech Stack:** `JavaScript (ES6+)` • `WebRTC DataChannels` • `WebSockets` • `Node.js` • `HTML5 Canvas` • `Distributed Systems` • `Pipeline Parallelism` • `PyTorch`
 
 <p align="left">
+  <a href="https://p2p-mobile-mesh.onrender.com/"><b>🌐 Live Web Deployment →</b></a> &nbsp;|&nbsp; 
   <a href="https://github.com/Prathamesh-000/Transformer"><b>View Project Repository →</b></a> &nbsp;|&nbsp; 
   <a href="https://github.com/Prathamesh-000/Transformer/blob/main/README.md"><b>Detailed System Documentation & Screenshots →</b></a>
 </p>
