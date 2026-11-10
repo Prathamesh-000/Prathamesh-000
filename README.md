@@ -72,7 +72,7 @@ Breaking News ➔ GPT-4o-mini NLP ➔ NumPy RAG ➔ Calibrated XGBoost ➔ Secto
 <tr>
 <td width="100%">
 
-### 🚨 2. [Crisis Match (Sahayak Setu) — HackIndia Spark 6 @ NIT Delhi](https://github.com/HackIndiaXYZ/hackindia-spark-6-ncr-central-region-routers)
+### 🚨 2. [Crisis Match (Sahayak Setu)](https://github.com/vikrant-sainii/crisis_match) — [HackIndia Spark 6 @ NIT Delhi](https://github.com/HackIndiaXYZ/hackindia-spark-6-ncr-central-region-routers)
 **Decentralized Offline-First Emergency Orchestration & Dispatch Platform**
 
 > 🏆 *Built at **HackIndia Spark 6 @ NIT Delhi** by **Team Routers***
@@ -98,7 +98,8 @@ Distress SOS (Voice / SMS) ➔ n8n Orchestration ➔ LangChain Self-RAG ➔ Geo-
 - **Tech Stack:** `Python` • `FastAPI` • `LangChain` • `Google Gemini Pro` • `Self-RAG` • `FAISS` • `n8n` • `Node.js` • `Ethers.js` • `Polygon Amoy` • `PostGIS`
 
 <p align="left">
-  <a href="https://github.com/HackIndiaXYZ/hackindia-spark-6-ncr-central-region-routers"><b>View Official HackIndia Repository →</b></a> &nbsp;|&nbsp; 
+  <a href="https://github.com/vikrant-sainii/crisis_match"><b>View Crisis Match Repository →</b></a> &nbsp;|&nbsp; 
+  <a href="https://github.com/HackIndiaXYZ/hackindia-spark-6-ncr-central-region-routers"><b>Official HackIndia Repo →</b></a> &nbsp;|&nbsp; 
   <a href="https://github.com/Prathamesh-000/crisis-match-backend"><b>AI Microservice Repo →</b></a> &nbsp;|&nbsp; 
   <a href="https://github.com/Prathamesh-000/blockchain-backend"><b>Blockchain Service Repo →</b></a>
 </p>
